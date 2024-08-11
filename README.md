@@ -23,6 +23,10 @@ Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam m
 5. Setelah di input semuannya, tinggal ketik kodenya, beserta masukkan jumlah, diskon, dan pajak di Halaman Kasir.
 6. Setelah itu inputkan kode nya, maka barang, harga, dll, akan muncul.
 
+## Download 
+link: https://drive.google.com/file/d/1l7KAHBLusbwzNusF_9jvncv9IwPIEcwa/view?usp=drive_link
+pw: E-Kasir_byDawud
+
 ## Kontak
 
 Untuk pertanyaan atau masukan, silakan hubungi:
