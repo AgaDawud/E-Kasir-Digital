@@ -28,7 +28,7 @@ Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam m
 - pw: E-Kasir_byDawud
 
 ## Disclaimer 
-Aplikasi ini di khususkan untuk aplikasi Dekstop PC atau Laptop, Bukan untuk android 
+Aplikasi ini di khususkan untuk aplikasi Dekstop PC atau Laptop, 𝘽𝙪𝙠𝙖𝙣 𝙪𝙣𝙩𝙪𝙠 𝘼𝙣𝙙𝙧𝙤𝙞𝙙
 
 ## Kontak
 Untuk pertanyaan atau masukan, silakan hubungi:
