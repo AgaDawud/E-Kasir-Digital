@@ -1,0 +1,11 @@
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\bin\Debug\Kasir D'COMP.exe.config
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\bin\Debug\Kasir D'COMP.exe
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir D'COMP.csprojResolveAssemblyReference.cache
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir_D_COMP.FormLogin.resources
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir_D_COMP.HalamanKasir.resources
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir_D_COMP.Properties.Resources.resources
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir_D_COMP.TambahBarang.resources
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir D'COMP.csproj.GenerateResource.Cache
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir D'COMP.exe
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\obj\Debug\Kasir D'COMP.pdb
+F:\Kasir\Kasir D'Comp\Kasir D'COMP\bin\Debug\Kasir D'COMP.pdb
