@@ -24,8 +24,8 @@ Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam m
 6. Setelah itu inputkan kode nya, maka barang, harga, dll, akan muncul.
 
 ## Download 
-link: https://drive.google.com/file/d/1l7KAHBLusbwzNusF_9jvncv9IwPIEcwa/view?usp=drive_link
-pw: E-Kasir_byDawud
+- link: https://drive.google.com/file/d/1l7KAHBLusbwzNusF_9jvncv9IwPIEcwa/view?usp=drive_link
+- pw: E-Kasir_byDawud
 
 ## Kontak
 
