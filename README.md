@@ -4,7 +4,7 @@ Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam m
 
 ## Fitur Utama
 
-- **Manajemen Inventaris:** Tambah dan hapus dalam inventaris.
+- **Manajemen Inventaris Barang:** Tambah dan hapus dalam inventaris barang.
 - **Perhitungan Diskon dan Pajak:** Hitung diskon dan pajak secara otomatis untuk setiap transaksi.
 - **DataGridView:** Tampilkan daftar item yang dibeli dalam tampilan tabel yang interaktif.
 
