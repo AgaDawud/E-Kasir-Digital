@@ -1,4 +1,4 @@
-# Aplikasi E-Kasir Digital untuk Toko Kecil
+# Aplikasi E-Kasir Digital
 
 Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam mengelola transaksi penjualan dengan lebih efisien. Dengan antarmuka yang user-friendly dan fitur yang intuitif, aplikasi ini memungkinkan pemilik toko untuk melakukan proses transaksi, mengelola inventaris, serta menghitung diskon dan pajak secara otomatis.
 
