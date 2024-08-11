@@ -1,84 +1,32 @@
-# Nama Proyek
+# Aplikasi E-Kasir Digital untuk Toko Kecil
 
-Deskripsi singkat tentang proyek Anda.
+Aplikasi E-Kasir Digital ini dirancang untuk membantu pemilik toko kecil dalam mengelola transaksi penjualan dengan lebih efisien. Dengan antarmuka yang user-friendly dan fitur yang intuitif, aplikasi ini memungkinkan pemilik toko untuk melakukan proses transaksi, mengelola inventaris, serta menghitung diskon dan pajak secara otomatis.
 
-## Fitur
+## Fitur Utama
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+- **Manajemen Inventaris:** Tambah dan hapus dalam inventaris.
+- **Perhitungan Diskon dan Pajak:** Hitung diskon dan pajak secara otomatis untuk setiap transaksi.
+- **DataGridView:** Tampilkan daftar item yang dibeli dalam tampilan tabel yang interaktif.
 
 ## Teknologi
 
-- [Teknologi 1](link)
-- [Teknologi 2](link)
-- [Teknologi 3](link)
+- **C#** untuk pengembangan aplikasi desktop.
+- **SQL Server** untuk manajemen basis data.
+- **Windows Forms** untuk antarmuka pengguna.
 
-## Instalasi
+## Instalasi & Penggunaan
 
-1. Clone repositori ini:
-    ```bash
-    git clone https://github.com/username/repository.git
-    ```
-
-2. Masuk ke direktori proyek:
-    ```bash
-    cd repository
-    ```
-
-3. Instal dependensi:
-    ```bash
-    npm install
-    # atau
-    composer install
-    ```
-
-4. Konfigurasi file `.env` (jika diperlukan):
-    ```ini
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=nama_database
-    DB_USERNAME=root
-    DB_PASSWORD=
-    ```
-
-5. Jalankan migrasi (jika menggunakan database):
-    ```bash
-    php artisan migrate
-    ```
-
-6. Jalankan aplikasi:
-    ```bash
-    php artisan serve
-    ```
-
-## Penggunaan
-
-Deskripsikan bagaimana cara menggunakan aplikasi ini. Contoh:
-
-1. Buka browser dan kunjungi `http://localhost:8000`.
-2. Login dengan akun pengguna.
-3. Akses fitur-fitur aplikasi sesuai kebutuhan.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi, silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori ini.
-2. Buat branch baru (`git checkout -b feature-branch`).
-3. Lakukan perubahan dan commit (`git commit -am 'Add new feature'`).
-4. Push ke branch (`git push origin feature-branch`).
-5. Buat pull request.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
+1. Unduh dan instal aplikasi Microsoft SQL Server.
+2. Upload file DB_Kasir ke Database Microsoft SQL Server.
+3. Buka Aplikasi E-Kasir.exe dan Login dengan username: e-kasir@admin.id dan password: e-kasir_admin.
+4. Jika sudah masukkan nama barang, harga barang, dan kode barang di tambahkan barang.
+5. Setelah di input semuannya, tinggal ketik kodenya, beserta masukkan jumlah, diskon, dan pajak di Halaman Kasir.
+6. Setelah itu inputkan kode nya, maka barang, harga, dll, akan muncul.
 
 ## Kontak
 
-Untuk pertanyaan, silakan hubungi:
+Untuk pertanyaan atau masukan, silakan hubungi:
 
-- Nama: [Nama Anda](mailto:email@example.com)
-- Twitter: [@username](https://twitter.com/username)
-- LinkedIn: [Profil LinkedIn](https://linkedin.com/in/username)
+- Nama: [Dawud Adinaga]
+- Instagram: [@xDawud_](https://www.instagram.com/dawud_adinaga/?next=%2F)
+- Discord: [mochammaddawudadinaga]
