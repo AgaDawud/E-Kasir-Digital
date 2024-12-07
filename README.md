@@ -35,4 +35,4 @@ Untuk pertanyaan atau masukan, silakan hubungi:
 
 - Nama: [Dawud Adinaga]
 - Instagram: [@xDawud_](https://www.instagram.com/dawud_adinaga/?next=%2F)
-- Discord: [mochammaddawudadinaga]
+- Discord: [xdawud_]
